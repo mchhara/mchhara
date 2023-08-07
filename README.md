@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Michał and I'm a passionate backend developer from Poland.<br><br>📫 Contact: harasim1999@gmail.com
+Hi 👋! My name is Michał and I'm a passionate fullstack developer from Poland.<br><br>📫 Contact: harasim1999@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/micha%C5%82-harasim-a45766239) 
